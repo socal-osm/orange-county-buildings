@@ -4,36 +4,36 @@ Several cities in Orange county maintain their own shapefiles of buildings, whic
 ## Cities
 
 * Aliso Viejo: unknown, seems unlikely
-* Anaheim: [has data](http://gis.anaheim.net/PropertyInfo/), does not seem to be shared
-* Brea: unknown
-* Buena Park: unknown
-* Costa Mesa: unknown
-* Cypress: unknown
+* Anaheim: [has some data](http://gis.anaheim.net/PropertyInfo/), shared through ArcGIS Community Maps
+* Brea: unknown, seems unlikely
+* Buena Park: unknown, seems unlikely
+* Costa Mesa: unknown, seems unlikely
+* Cypress: unknown, seems unlikely
 * Dana Point: unknown, seems unlikely
-* Fountain Valley: unknown
+* Fountain Valley: unknown, seems unlikely
 * Fullerton: [has data](https://www.cityoffullerton.com/services/maps/3d_model_downloads.asp), shared in KMZ format
-* Garden Grove: unknown
-* Huntington Beach: unknown
-* Irvine: [has data](http://maps3.cityofirvine.org/iparcels/index.html), does not seem to be shared
-* La Habra: unknown
-* La Palma: unknown
+* Garden Grove: [has some data](http://gis3.ci.garden-grove.ca.us/public/), does not seem to be shared
+* Huntington Beach: unknown, seems unlikely
+* Irvine: [has data](http://maps3.cityofirvine.org/iparcels/index.html), shared through ArcGIS Community Maps
+* La Habra: unknown, seems unlikely
+* La Palma: unknown, seems unlikely
 * Laguna Beach: [has data](http://gis.lagunabeachcity.net/Geocortex/Essentials/Web23/Viewer.aspx?Site=Parcels), does not seem to be shared
 * Laguna Hills: unknown, seems unlikely
-* Laguna Niguel: unknown
-* Laguna Woods: unknown
-* Lake Forest: unknown
-* Los Alamitos: unknown
-* Mission Viejo: unknown
-* Newport Beach: [has data](http://nbgis.newportbeachca.gov/NewportHTML5Viewer/?viewer=publicsite), does not seem to be shared
+* Laguna Niguel: [has data](http://gis.cityoflagunaniguel.org/PublicViewer/), shared through ArcGIS Community Maps
+* Laguna Woods: unknown, seems unlikely
+* Lake Forest: unknown, seems unlikely
+* Los Alamitos: has some data, shared through ArcGIS Community  Maps
+* Mission Viejo: unknown, seems unlikely
+* Newport Beach: [has data](http://nbgis.newportbeachca.gov/NewportHTML5Viewer/?viewer=publicsite), shared through ArcGIS Community Maps
 * Orange: unknown, seems unlikely
 * Placentia: unknown, seems unlikely
 * Rancho Santa Margarita: unknown, seems unlikely
 * San Clemente: unknown, seems unlikely
 * San Juan Capistrano: unknown, seems unlikely
-* Santa Ana: unknown
-* Seal Beach: unknown
-* Stanton: unknown
-* Tustin: unknown
-* Villa Park: unknown
-* Westminster: unknown
-* Yorba Linda: unknown
+* Santa Ana: has data, shared through ArcGIS Community  Maps
+* Seal Beach: has data, shared through ArcGIS Community  Maps
+* Stanton: unknown, seems unlikely
+* Tustin: unknown, seems unlikely
+* Villa Park: unknown, seems unlikely
+* Westminster: unknown, seems unlikely
+* Yorba Linda: unknown, seems unlikely
