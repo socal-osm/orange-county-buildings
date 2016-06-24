@@ -13,7 +13,7 @@ Several cities in Orange county maintain their own shapefiles of buildings, whic
 * Fountain Valley: unknown, seems unlikely
 * Fullerton: [has data](https://www.cityoffullerton.com/services/maps/3d_model_downloads.asp), shared in KMZ format
 * Garden Grove: [has some data](http://gis3.ci.garden-grove.ca.us/public/), does not seem to be shared
-* Huntington Beach: [has data](http://www.arcgis.com/home/webmap/viewer.html?layers=e058b6e09c5c4d1ea6bc5b7b35d25a8e&useExisting=1), hosted on arcgis.com
+* Huntington Beach: [has data](http://www.arcgis.com/home/webmap/viewer.html?layers=e058b6e09c5c4d1ea6bc5b7b35d25a8e&useExisting=1), hosted on arcgis.com [also addresses](http://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=432bd9e109df4d08b5ff3a51f5c39ccf)
 * Irvine: [has data](http://maps3.cityofirvine.org/iparcels/index.html), shared through ArcGIS Community Maps
 * La Habra: unknown, seems unlikely
 * La Palma: unknown, seems unlikely
