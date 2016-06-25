@@ -18,7 +18,7 @@ The following cities in Orange County have been checked for buildings data, and 
 * Seal Beach: has data, shared through ArcGIS Community  Maps
 
 ### Cities which may not have data
-The following cities have been checked, and do not appear to have any buildings data at this stage.
+The websites for the following cities have been checked, and do not appear to have any buildings data at this stage.
 * Aliso Viejo
 * Brea
 * Buena Park
